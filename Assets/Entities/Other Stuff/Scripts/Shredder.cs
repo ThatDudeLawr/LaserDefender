@@ -1,0 +1,23 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Shredder : MonoBehaviour {
+
+	// Use this for initialization
+	void Start () {
+		
+	}
+	
+	// Update is called once per frame
+	void Update () {
+		
+	}
+
+	void OnTriggerEnter2D(Collider2D col){
+		Projectile missile = col.gameObject.GetComponent<Projectile>();
+		if(missile){
+		Destroy(col.gameObject);
+		}
+	}
+}
