@@ -40,8 +40,8 @@ MonoBehaviour:
     y: 0
     width: 839
     height: 624
-  m_MinSize: {x: 104, y: 121}
-  m_MaxSize: {x: 4004, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 817, y: 613}
   m_MaxSize: {x: 22012, y: 18063}
   vertical: 0
-  controlID: 164
+  controlID: 165
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -539,19 +539,18 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders:
-    - Assets/Entities/Other Stuff
+    m_Folders: []
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: E:\Repo\Unity Projects\Laser Defender
+  m_LastProjectPath: F:\Unity Projects\Laser-Defender
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 5a280000
     m_LastClickedID: 10330
-    m_ExpandedIDs: 000000008e27000096270000a8270000d6270000e8270000fa2700000a2800001e280000262800006428000066280000282900002a290000
+    m_ExpandedIDs: 00000000182900001c290000282900004c2900005c2900006a2900007629000084290000862900008a290000c2290000c42900005c2a00005e2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -579,7 +578,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 260.8393}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008e27000096270000a8270000d6270000e8270000fa2700000a2800001c2800001e280000262800006428000066280000282900002a290000
+    m_ExpandedIDs: 00000000182900001c290000282900004c2900005c2900006a2900007629000084290000862900008a290000c2290000c42900005c2a00005e2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -697,9 +696,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e227000020280000
+    m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 9efbffff00000000
+    m_ExpandedIDs: 0ef8ffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
